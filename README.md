@@ -33,7 +33,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ** Reinforcement Learning, I imagine **
 
-## onlone cafe
+## online cafe
 - content: examples / LabVIEW, python, ROS
 - address: https://cafe.naver.com/iltech
 
