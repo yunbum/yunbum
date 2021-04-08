@@ -10,7 +10,7 @@ I hope to be Reinforcement Learning platfom maker / HW & SW
 
 As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
 
-![다운로드](https://github.com/yunbum/yunbum/issues/1#issue-853418750)
+![20210405_200717](https://user-images.githubusercontent.com/32663016/114026182-e9da5c80-98b0-11eb-9c20-123c9f9d5dd1.png)
 
 >GPS waypoint based driving
 >IMU heading, Cameara lane detection, Lidar for emergency stop
