@@ -1,16 +1,32 @@
-### Hi there 👋
+# RLmodel
+## Reinforcement Learning Model maker!
 
-<!--
-**yunbum/yunbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hope to be Reinforcement Learning platfom maker / HW & SW
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SRC robot (Self driving Rc Car) / A, B1, B2, C model
+- Cartpole (Inverted pendulum)
+- Ball balance robot
+
+As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
+
+>GPS waypoint based driving
+>IMU heading, Cameara lane detection, Lidar for emergency stop
+>Show several info via Speaker, LED dot matrix,
+
+## Tech
+- Driving logic using pure pursuit
+- PID control steering
+- Lidar data clustering
+- Remote control using joystick
+
+## ROS
+- Now making ros package for SRC robot
+
+
+## SW Language
+|  Type  |  Function |
+| LabVIEW | User Interface |
+
+** Reinforcement Learning, I'm free **
+
