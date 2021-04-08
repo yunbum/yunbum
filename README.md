@@ -10,6 +10,8 @@ I hope to be Reinforcement Learning platfom maker / HW & SW
 
 As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
 
+https://github.com/yunbum/yunbum/issues/1#issue-853418750
+
 >GPS waypoint based driving
 >IMU heading, Cameara lane detection, Lidar for emergency stop
 >Show several info via Speaker, LED dot matrix,
@@ -28,5 +30,5 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 |  Type  |  Function |
 | LabVIEW | User Interface |
 
-** Reinforcement Learning, I'm free **
+** Reinforcement Learning, I imagine **
 
