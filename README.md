@@ -22,8 +22,9 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Lidar data clustering
 - Remote control using joystick
 
-## ROS
-- Now making ros package for SRC robot
+## Youtube address
+- https://www.youtube.com/channel/UCd23NgICe3702uqAAk4HYFQ
+- 
 
 
 ## SW Language
@@ -32,3 +33,8 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ** Reinforcement Learning, I imagine **
 
+## onlone cafe
+- examples / LabVIEW, python, ROS
+- 
+
+[![SRC](http://img.youtube.com/vi/65no9S2__yQ/0.jpg)](https://youtu.be/65no9S2__yQ=0s) 
