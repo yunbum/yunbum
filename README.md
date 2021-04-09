@@ -1,4 +1,4 @@
-# RLmodel
+# RLModel
 ## Reinforcement Learning Model maker!
 
 I hope to be Reinforcement Learning platfom maker / HW & SW
