@@ -10,7 +10,8 @@ I hope to be Reinforcement Learning platfom maker / HW & SW
 As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
 
 [![SRC](http://img.youtube.com/vi/65no9S2__yQ/2.jpg)](https://youtu.be/65no9S2__yQ=0s) ![image processing 160-c](https://user-images.githubusercontent.com/32663016/114257381-adb31300-99fa-11eb-90b2-57a7fb8b82c7.gif) ![LED-light-160-c](https://user-images.githubusercontent.com/32663016/114257482-59f4f980-99fb-11eb-8674-71499f57c0c6.gif)
-![log replay 160-c](https://user-images.githubusercontent.com/32663016/114257416-e226cf00-99fa-11eb-8655-66ba58ff0f10.gif) ![joystick-160-c](https://user-images.githubusercontent.com/32663016/114257581-e99aa800-99fb-11eb-80af-da88f095bed0.gif) ![imu-ahrs-160](https://user-images.githubusercontent.com/32663016/114257636-4eee9900-99fc-11eb-9eea-5b2890e479a3.gif) 
+![log replay 160-c](https://user-images.githubusercontent.com/32663016/114257416-e226cf00-99fa-11eb-8655-66ba58ff0f10.gif) ![joystick-160-c](https://user-images.githubusercontent.com/32663016/114257581-e99aa800-99fb-11eb-80af-da88f095bed0.gif) ![imu-ahrs-160](https://user-images.githubusercontent.com/32663016/114257636-4eee9900-99fc-11eb-9eea-5b2890e479a3.gif) ![lidar tim571 160-c](https://user-images.githubusercontent.com/32663016/114258252-4d26d480-9a00-11eb-8abc-1d00f7622237.gif)
+
 
 
 
