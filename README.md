@@ -34,6 +34,9 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ## online cafe
 - content: examples / LabVIEW, python, ROS
 - address: https://cafe.naver.com/iltech
-[![SRC](http://img.youtube.com/vi/65no9S2__yQ/2.jpg)](https://youtu.be/65no9S2__yQ=0s) 
+
+[![SRC](http://img.youtube.com/vi/65no9S2__yQ/2.jpg)](https://youtu.be/65no9S2__yQ=0s)![image processing 160-c](https://user-images.githubusercontent.com/32663016/114257381-adb31300-99fa-11eb-90b2-57a7fb8b82c7.gif)
+
+
 
 
