@@ -33,6 +33,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ## SW Language
 | Type | Function |
+|------|-------|
 | LabVIEW | User Interface |
 
 ** Reinforcement Learning, I imagine **
