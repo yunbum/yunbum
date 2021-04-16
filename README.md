@@ -29,7 +29,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ## Youtube address
 - https://www.youtube.com/watch?v=OcdVl3k5qS0
 
-[![SRC](http://img.youtube.com/vi/OcdVl3k5qS0/2.jpg)](https://youtu.be/OcdVl3k5qS0=0s) 
+[![SRC](http://img.youtube.com/vi/OcdVl3k5qS0/0.jpg)](https://youtu.be/OcdVl3k5qS0=0s) 
 
 ## SW Language
 | Type | Function |
