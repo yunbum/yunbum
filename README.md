@@ -27,9 +27,9 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Remote control using joystick
 
 ## Youtube address
-- https://www.youtube.com/channel/UCd23NgICe3702uqAAk4HYFQ
+- https://www.youtube.com/watch?v=OcdVl3k5qS0
 
-[![SRC](http://img.youtube.com/vi/65no9S2__yQ/2.jpg)](https://youtu.be/65no9S2__yQ=0s) 
+[![SRC](http://img.youtube.com/vi/OcdVl3k5qS0/2.jpg)](https://youtu.be/OcdVl3k5qS0=0s) 
 
 ## SW Language
 | Type | Function |
