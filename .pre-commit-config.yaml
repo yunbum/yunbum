@@ -1,8 +1,0 @@
-repos:
-- repo: https://github.com/yunbum
-  rev: "v2.3.1" # Use the sha or tag you want to point at
-  hooks:
-    - id: prettier
-      files: ".*.(json|js|css)"
-
-
