@@ -28,6 +28,7 @@ Created something awesome for your fork of the portfolio and want to share it? F
 - [For the Future](#for-the-future)
 - [Contributors](#project-maintainers)
 
+<<<<<<< HEAD
 ## Portfolio Sections
 ✔️ Summary and About me\
 ✔️ Skills\
@@ -42,6 +43,9 @@ Created something awesome for your fork of the portfolio and want to share it? F
 ✔️ Contact me\
 ✔️ Twitter Timeline\
 ✔️ Github Profile
+=======
+[![SRC](http://img.youtube.com/vi/OcdVl3k5qS0/2.jpg)](https://youtu.be/OcdVl3k5qS0=0s) 
+>>>>>>> parent of d4d926a (Update README.md)
 
 To view a live example, **[click here](https://developerfolio.js.org/)**.
 
