@@ -4,8 +4,8 @@
 I hope to be Reinforcement Learning platfom maker / HW & SW
 - SRC robot (Self driving Rc Car) / A, B1, B2, C model
 - Cartpole (Inverted pendulum)
-- Ball balance robot
-- Detail link: https://github.com/yunbum/SRC
+- Blog link: https://yunbum.github.io/SRC-robots.html 
+- SRC repo: https://github.com/yunbum/SRC
 
 As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
 
