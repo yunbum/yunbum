@@ -13,7 +13,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![log replay 160-c](https://user-images.githubusercontent.com/32663016/114257416-e226cf00-99fa-11eb-8655-66ba58ff0f10.gif) ![joystick-160-c](https://user-images.githubusercontent.com/32663016/114257581-e99aa800-99fb-11eb-80af-da88f095bed0.gif) ![imu-ahrs-160](https://user-images.githubusercontent.com/32663016/114257636-4eee9900-99fc-11eb-9eea-5b2890e479a3.gif) ![lidar tim571 160-c](https://user-images.githubusercontent.com/32663016/114258252-4d26d480-9a00-11eb-8abc-1d00f7622237.gif) ![Log replay-2 160-c](https://user-images.githubusercontent.com/32663016/114258914-13a49800-9a05-11eb-9063-70b9dd63f81b.gif) ![Main UI LV 160-c](https://user-images.githubusercontent.com/32663016/114259825-db548800-9a0b-11eb-873d-3fdf2ec07158.gif) ![SRC-B1 dot matrix check 160](https://user-images.githubusercontent.com/32663016/114260465-017c2700-9a10-11eb-8645-e4bc459dd39d.gif) ![led dot matrix 160](https://user-images.githubusercontent.com/32663016/114260581-d0e8bd00-9a10-11eb-8ba6-9ad319d76029.gif)
 
 
-![20210405_200717](https://user-images.githubusercontent.com/32663016/114026182-e9da5c80-98b0-11eb-9c20-123c9f9d5dd1.png)
+![20210405_200717](https://user-images.githubusercontent.com/32663016/162663695-090a10b3-bb3a-4b01-8e38-c645c6876a0e.jpg)
 <small>[modules] sensor fusion, option modules, sw packagge.</small>
 
 ![src-c](https://user-images.githubusercontent.com/32663016/114396444-8d40af80-9bd8-11eb-851b-3341e070fbdc.jpg)
