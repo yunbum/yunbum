@@ -16,7 +16,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![20210405_200717](https://user-images.githubusercontent.com/32663016/162663695-090a10b3-bb3a-4b01-8e38-c645c6876a0e.jpg)
 <small>[modules] sensor fusion, option modules, sw packagge.</small>
 
-![src-c](https://user-images.githubusercontent.com/32663016/114396444-8d40af80-9bd8-11eb-851b-3341e070fbdc.jpg)
+![src-c](https://user-images.githubusercontent.com/32663016/162663705-a3f0fee5-15b9-4d3c-8d32-2fd961fc5b3f.jpg)
 <small>[Models] SRC tyep A,B,C,D...</small>
 
 >GPS waypoint based driving
