@@ -19,6 +19,9 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![src-c](https://user-images.githubusercontent.com/32663016/162663705-a3f0fee5-15b9-4d3c-8d32-2fd961fc5b3f.jpg)
 <small>[Models] SRC tyep A,B,C,D...</small>
 
+![20230125_144914](https://user-images.githubusercontent.com/32663016/219405496-c3e24c64-dc86-48ed-8aca-e7f20e3c9d7b.jpg)
+<small>[Metal cover] with external cover images</small>
+
 >GPS waypoint based driving
 >IMU heading, Cameara lane detection, Lidar for emergency stop
 >Show several info via Speaker, LED dot matrix,
