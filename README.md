@@ -35,9 +35,10 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 [![SRC](http://img.youtube.com/vi/OcdVl3k5qS0/0.jpg)](https://youtu.be/OcdVl3k5qS0=0s) 
 
 ## SW Language
-| Type | Function |
-|------|-------|
-| LabVIEW | User Interface |
+| Type | Function | Etc |
+|------|-------|-----|
+| LabVIEW | User Interface | DDS |
+| Python | ROS2 | DDS |
 
 ** Reinforcement Learning, I imagine **
 
