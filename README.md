@@ -38,7 +38,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 | Type | Function | Comm | Map |
 |------|-------|-----|
 | LabVIEW | User Interface | rti DDS | Gmap |
-| Python | ROS2 | cyclone DDS | --- |
+| Python | ROS2 | cyclone DDS | |
 
 ** Reinforcement Learning, I imagine **
 
