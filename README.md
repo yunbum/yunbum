@@ -2,10 +2,11 @@
 ## Reinforcement Learning Model maker!
 
 I hope to be Reinforcement Learning platfom maker / HW & SW
-- Self driving RC car model - SRC
+- Self driving RC car model - RLCar
+- Website: https://www.rlmodel.com  (Under construction)
 - youtube video: https://www.youtube.com/@rlmodel5507/videos
 - Blog link: https://yunbum.github.io/SRC-robots.html 
-- SRC repo: https://github.com/yunbum/SRC
+- RLCar repo: https://github.com/yunbum/SRC
 
 As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC car.
 
