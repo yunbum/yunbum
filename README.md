@@ -3,7 +3,7 @@
 
 I hope to be Reinforcement Learning platfom maker / HW & SW
 - Self driving RC car model - RLCar
-- Website: https://www.rlmodel.com  (Under construction)
+- Website: https://www.rlmodel.com  
 - youtube video: https://www.youtube.com/@rlmodel5507/videos
 - Blog link: https://yunbum.github.io/SRC-robots.html 
 - RLCar repo: https://github.com/yunbum/SRC
