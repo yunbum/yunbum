@@ -1,8 +1,8 @@
 # RLmodel
 ## Reinforcement Learning Model maker!
 
-I hope to be Reinforcement Learning platfom maker / HW & SW
-- Self driving RC car model - RLCar
+RLmodel stand for Reinforcement Learning model platfom maker / HW & SW
+- Self driving mobile robot indoor/outdoor
 - Website: https://www.rlmodel.com  
 - youtube video: https://www.youtube.com/@rlmodel5507/videos
 - Blog link: https://yunbum.github.io/SRC-robots.html 
