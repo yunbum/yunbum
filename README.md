@@ -17,8 +17,8 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![20210405_200717](https://user-images.githubusercontent.com/32663016/162663695-090a10b3-bb3a-4b01-8e38-c645c6876a0e.jpg)
 <small>[modules] sensor fusion, option modules, sw packagge.</small>
 
-![src-c](https://user-images.githubusercontent.com/32663016/162663705-a3f0fee5-15b9-4d3c-8d32-2fd961fc5b3f.jpg)
-<small>[Models] SRC tyep A,B,C,D...</small>
+![Screenshot from 2023-07-02 22-25-32](https://github.com/yunbum/yunbum/assets/32663016/de8404a0-8504-46d8-a93d-eef94dad1551)
+<small>[Models] RLCar gazebo </small>
 
 ![20230125_144914](https://user-images.githubusercontent.com/32663016/219405496-c3e24c64-dc86-48ed-8aca-e7f20e3c9d7b.jpg)
 <small>[Metal cover] with external cover images</small>
